@@ -1,0 +1,34 @@
+_repo: Les-Voyages-de-Gulliver_17640
+_version: 0.1.0
+alternative_title: Gulliver's travels. French
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Swift, Jonathan
+    alias: Swift, J. (Jonathan)
+    birthdate: 1667
+    deathdate: 1745
+    gutenberg_agent_id: '326'
+    url: http://www.gutenberg.org/2009/agents/326
+    wikipedia: http://en.wikipedia.org/wiki/Jonathan_Swift
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17640'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Satire'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Travelers -- Fiction'
+- !lcsh 'Gulliver, Lemuel (Fictitious character) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Voyages, Imaginary -- Early works to 1800'
+title: Les Voyages de Gulliver
+url: http://www.gutenberg.org/ebooks/17640
