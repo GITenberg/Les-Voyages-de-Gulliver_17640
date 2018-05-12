@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/326
     wikipedia: http://en.wikipedia.org/wiki/Jonathan_Swift
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17640#Les-Voyages-de-Gulliver
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-01-30'
 gutenberg_type: Text
